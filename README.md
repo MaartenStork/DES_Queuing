@@ -17,10 +17,14 @@ This project explores the modeling of queuing systems using discrete event simul
 ### **Files**  
 - **`MaartenStork_15761770_PaulJungnickel_15716554_LucasKeijzer_14041073.ipynb`**  
   The main notebook containing the results and analysis.  
-- **`stochasticQueueing.py`**  
+- **`/model/stochasticQueueing.py`**  
   A Python script containing the Discrete Event Simulation (DES) implementation.  
 - **`/plots`**  
   Directory containing all plots generated during the analysis.  
+- **`/data`**  
+  Directory containing pre-gathered data to run on.  
+- **`DES_Report`**  
+  LATEX file containing our findings.  
 
 ---
 
