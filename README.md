@@ -1,4 +1,4 @@
-# Discrete Event Simulation of Stochastic Client-Server Interactions**
+# Discrete Event Simulation of Stochastic Interactions
 
 ---
 
