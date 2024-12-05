@@ -3,6 +3,11 @@
 
 ---
 
+### **Project Overview**
+This project explores the modeling of queuing systems using discrete event simulation (DES) to analyze stochastic client-server interactions. Specifically, the focus is on understanding how different server configurations and service rate distributions affect system performance, such as waiting times and overall efficiency. The goal is to provide insights into optimizing system setups by examining key factors like server numbers, scheduling strategies (e.g., FIFO vs. SJF), and various service rate distributions (e.g., deterministic, exponential, hyperexponential). The simulation helps identify the impacts of these configurations on performance metrics in environments where demand may exceed available resources, necessitating effective queuing strategies.
+
+---
+
 ### **Authors**  
 - **Maarten Stork** - 15761770  
 - **Paul Jungnickel** - 15716554  
@@ -27,4 +32,5 @@ This project uses the following Python packages:
 - **`queue`**: For queue data structures and operations.  
 - **`numpy`** (`np`): For numerical operations and random number generation.  
 - **`matplotlib`** (`plt`): For creating visualizations and plots.  
-- **`scipy.stats`**: Used for statistical tests (e.g., Mann-Whitney U test, Kruskal-Wallis test).  
+- **`scipy.stats`**: Used for statistical tests (e.g., Mann-Whitney U test, Kruskal-Wallis test).
+
