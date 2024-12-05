@@ -1,5 +1,4 @@
-# **Stochastic Simulation Assignment 2**  
-### **Discrete Event Simulation of Stochastic Client-Server Interactions**
+# Discrete Event Simulation of Stochastic Client-Server Interactions**
 
 ---
 
