@@ -8,9 +8,9 @@ This project explores the modeling of queuing systems using discrete event simul
 ---
 
 ### **Authors**  
-- **Maarten Stork** - 15761770  
-- **Paul Jungnickel** - 15716554  
-- **Lucas Keijzer** - 14041073  
+- **Maarten Stork** 
+- **Paul Jungnickel** 
+- **Lucas Keijzer** 
 
 ---
 
